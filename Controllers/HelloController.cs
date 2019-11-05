@@ -10,6 +10,8 @@ namespace MVCHello.Controllers
     {
         public IActionResult Index()
         {
+            ViewBag.Greeting = DateTime.Now.Hour <= 12 ? "Good Morning!!" : "Good afternoon";
+            ViewBag.GreetingScript = "<script>alert('Hello from script')</script>";
             return View();
         }
 

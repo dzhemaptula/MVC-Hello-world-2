@@ -108,3 +108,13 @@ C:\Users\dzhem\source\repos\MVCHello\MVCHello\bin\Debug\netcoreapp3.0\runtimes\u
 C:\Users\dzhem\source\repos\MVCHello\MVCHello\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\dzhem\source\repos\MVCHello\MVCHello\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\bin\Debug\netcoreapp3.0\MVCHello.Views.dll
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\bin\Debug\netcoreapp3.0\MVCHello.Views.pdb
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.RazorAssemblyInfo.cache
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.RazorAssemblyInfo.cs
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.TagHelpers.input.cache
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.TagHelpers.output.cache
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.RazorCoreGenerate.cache
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.RazorTargetAssemblyInfo.cs
+C:\Users\dzhem\source\repos\MVCHello\MVCHello\obj\Debug\netcoreapp3.0\MVCHello.Views.pdb

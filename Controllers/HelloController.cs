@@ -8,14 +8,14 @@ namespace MVCHello.Controllers
 {
     public class HelloController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
-            return "Hello from index in HelloController";
+            return View();
         }
 
-        public string About(int id)
+        public IActionResult About(int id)
         {
-            return $"Hello from About with id {id}";
+            return Content($"Hello from about {id}");
         }
     }
 }
